@@ -1,0 +1,13 @@
+D:\New folder\Login\Login\bin\Debug\Login.exe.config
+D:\New folder\Login\Login\bin\Debug\Login.exe
+D:\New folder\Login\Login\bin\Debug\Login.pdb
+D:\New folder\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\New folder\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Login\Login\obj\Debug\Login.Admin_Booking.resources
+D:\New folder\Login\Login\obj\Debug\Login.Login.resources
+D:\New folder\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\New folder\Login\Login\obj\Debug\Login.User_Booking.resources
+D:\New folder\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\New folder\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\New folder\Login\Login\obj\Debug\Login.exe
+D:\New folder\Login\Login\obj\Debug\Login.pdb
