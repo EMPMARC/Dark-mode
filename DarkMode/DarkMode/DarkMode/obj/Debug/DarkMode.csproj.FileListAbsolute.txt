@@ -1,0 +1,10 @@
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\bin\Debug\DarkMode.exe.config
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\bin\Debug\DarkMode.exe
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\bin\Debug\DarkMode.pdb
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.csproj.AssemblyReference.cache
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.Form1.resources
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.Properties.Resources.resources
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.csproj.GenerateResource.cache
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.csproj.CoreCompileInputs.cache
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.exe
+C:\Users\BUSANI\Desktop\C#\Iteration Structures\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.pdb

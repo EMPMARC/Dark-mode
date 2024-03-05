@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkMode", "DarkMode\DarkMode.csproj", "{923B9FAE-9BA4-471D-8EF1-380D9E029615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923B9FAE-9BA4-471D-8EF1-380D9E029615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923B9FAE-9BA4-471D-8EF1-380D9E029615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923B9FAE-9BA4-471D-8EF1-380D9E029615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923B9FAE-9BA4-471D-8EF1-380D9E029615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0EE739F-4F86-43AF-B010-D63EBC5DC20C}
+	EndGlobalSection
+EndGlobal
